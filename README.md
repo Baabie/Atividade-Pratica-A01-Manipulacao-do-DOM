@@ -1,0 +1,1 @@
+- contador feito com manipulação de DOM
